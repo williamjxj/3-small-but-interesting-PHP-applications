@@ -1,6 +1,6 @@
 3-small-and-interesting-PHP-applications
 ========================================
-
+<pre><code>
 3 small and interesting PHP applications (with jQuery plugins' support): register, send_email, search
 
 (A) search.php
@@ -26,3 +26,4 @@ search.php script: search files in certain directory to get the context by keywo
 
 (C) send_email.php
  Using jQuery validationEngine and jqtransformplugin to generate a form to send email.
+</code></pre>
